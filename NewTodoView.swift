@@ -1,3 +1,4 @@
+//This is a swiftUI view
 import SwiftUI
 
 struct NewTodoView: View {
