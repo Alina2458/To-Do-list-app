@@ -1,9 +1,4 @@
-//
-//  TodosApp.swift
-//  Todos
-//
-//  Created by Alina Fu on 15/7/65 BE.
-//
+//This is a swift file
 
 import SwiftUI
 
