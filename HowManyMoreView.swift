@@ -1,3 +1,4 @@
+//This is a SwiftUI view
 import SwiftUI
 
 struct HowManyMoreView: View {
