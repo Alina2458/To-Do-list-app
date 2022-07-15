@@ -1,9 +1,4 @@
-//
-//  TodoDetailView.swift
-//  Todos
-//
-//  Created by Alina Fu on 15/7/65 BE.
-//
+//This is a swiftUI view
 
 import SwiftUI
 
